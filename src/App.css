@@ -1,0 +1,46 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.header{
+  display: flex;
+ 
+}
+.logo{
+  margin-left: 50px;
+}
+input{
+  margin: 50px 0px 0px 100px;
+  height: 30px;
+  width:300px;
+}
+span{
+  border: 2px solid black;
+  padding: 4px 4px 6px 4px;
+}
+.icon{
+  font-size: 50px;
+  margin-left: 50px;
+}
+.section{
+  display: flex;
+ 
+}
+.Right .row1 .img1{
+  margin-left: 180px;
+}
+.Right .row2 .img1{
+  margin-left: 180px;
+}
+.Right .row3 .img1{
+  margin-left: 180px;
+}
+.Right .row1{
+  display: flex;
+}
+.Right .row2{
+  display: flex;
+}
+.Right .row3{
+  display: flex;
+}
